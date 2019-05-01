@@ -1,0 +1,22 @@
+table {
+	border: 2px solid black;
+	width: 80%;
+
+}
+
+th, td {
+	border: 1px solid black;
+	overflow: hidden;
+}
+ul{
+	background-color: lime;
+	color: red;
+	list-style-type: none;
+	overflow: hidden;
+}
+
+li{
+	float: right;
+	border: 1px ridge red;
+	padding: 10px;
+}
